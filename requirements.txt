@@ -1,0 +1,12 @@
+boto3
+numpy
+opencv-python-headless
+Pillow
+psycopg2-binary
+requests
+scikit-learn
+scipy
+segment-anything
+torch
+torchvision
+tqdm
